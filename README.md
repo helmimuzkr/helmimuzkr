@@ -24,11 +24,8 @@ You can reach me on my LinkedIn [![LinkedIn](https://img.shields.io/badge/Linked
     <img src="https://github-readme-stats.vercel.app/api?username=helmimuzkr&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Commit Stats"/>
   </a>
   <a href="https://github.com/helmimuzkr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helmimuzkr&theme=react&hide_border=true" alt="Contribution Stats"/>
-  </a>
-  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmimuzkr&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="helmimuzkr" />
-  </p>
+  </a>
 </div>
 
 
