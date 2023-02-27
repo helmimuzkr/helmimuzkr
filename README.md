@@ -9,7 +9,7 @@
 
 🔭 I'm currently looking for opportunities as a Backend engineer.<br/>
 📝 Now, I'm on track with learning more about Go languague, Integration with third-party APIs, Design patterns, and Software Architecture.<br/>
-👨‍💻 In my free time, I enjoy exploring new technologies and also watching movies or anime.<br/>
+👨‍💻 I enjoy exploring new technologies and watching movies in my free time.<br/>
 <br/>
 You can reach me on my LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helmimuzkr)
 
