@@ -20,14 +20,14 @@ You can reach me on my LinkedIn [![LinkedIn](https://img.shields.io/badge/Linked
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/helmimuzkr">
+<!--   <a href="https://github.com/helmimuzkr">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=helmimuzkr&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Commit Stats"/>
+  </a> -->
+  <a href="https://github.com/helmimuzkr">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmimuzkr&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="helmimuzkr" />
   </a>
   <a href="https://github.com/helmimuzkr">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmimuzkr&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="helmimuzkr" />
-  </a>
-  <a href="https://github.com/helmimuzkr">
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=helmimuzkr&theme=react&hide_border=true" alt="Streak Stats"/>
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=helmimuzkr&theme=react&hide_border=true" alt="Streak Stats"/>
   </a>
 </div>
 
