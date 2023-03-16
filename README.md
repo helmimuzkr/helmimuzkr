@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Helmi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=helmimuzkr&label=Visitors&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=helmimuzkr&label=Profile%20Views&color=0&icon=1&pretty=true" />
 </a>
 </div>
 
