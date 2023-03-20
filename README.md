@@ -8,7 +8,7 @@
 ## 💫 About Me:
 
 🔭 I'm currently looking for opportunities as a Backend engineer.<br/>
-📝 Now, I'm on track with learning more about Go languague, Integration with third-party APIs, Design patterns, and Software Architecture.<br/>
+📝 Now, I'm on track with learning more about <a href="https://github.com/helmimuzkr/self-learning/tree/main/golang">gRPC using Go.</a><br/>
 👨‍💻 I enjoy exploring new technologies and watching movies in my free time.<br/>
 <br/>
 You can reach me on my LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helmimuzkr)
