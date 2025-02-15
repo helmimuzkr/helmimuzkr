@@ -7,8 +7,7 @@
 
 ## 💫 About Me:
 
-📝 Now, I'm on track with learning more about <a href="https://github.com/helmimuzkr/self-learning/tree/main/java">Java.</a><br/>
-👨‍💻 I enjoy exploring new technologies and watching movies in my free time.<br/>
+📝 Now, I'm on track with learning more about <a href="https://github.com/helmimuzkr/self-learning/tree/main/ops">Infra.</a><br/>
 <br/>
 
 <!-- 
